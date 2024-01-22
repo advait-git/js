@@ -10,3 +10,6 @@ let s=String(some)
 console.log(some)
 console.log(typeof some)
 //similarly we can change it to boolean value also or vise versa
+
+//if the string is first then all will be considered as string "2"+1+2 -> 212
+//if the string is last then it will be considered as int  2+1+"3" -> 33
