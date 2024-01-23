@@ -6,3 +6,7 @@
 //non primitive : call by reference
 //Array , Objects , Functions
 //datatypes of non primitive is functions only but the function : will have function object as datatype
+
+//meomry
+//stack memory: used in prmitive type and Heap memory:non primitive
+
